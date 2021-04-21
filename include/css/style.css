@@ -98,6 +98,12 @@ a {
   color: #4a4a4a;
   transition: color ease 0.3s, border ease 0.3s, background ease 0.3s; }
 
+.author-a {
+  font-size: larger;
+  color: #ffffff;
+  text-decoration: none;
+}
+
 a:hover {
   color: #57A3E8; }
 

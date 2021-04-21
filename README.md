@@ -4,17 +4,18 @@
 # Rapunzel 2812 - Jquery Story Teller
 ###### This story follows the affairs of a beggared mining family that live in desperation to begin their own family.
 
-This repo is holds the codebase for a Jquery story teller app telling the story of Rapunzel 2812.
-Made in 2017 as a end of year group project with Fraser Marriott, myself, John Davidson.
+This repo holds the codebase for a jQuery story teller app telling a reinterpretation of the story of Rapunzel 1812.
+The website was made in 2017 as an end of university year group project with Fraser Marriott, myself, John Davidson.
 
-### [Live demo](https://inmountapp.surge.sh/)
+
+### [Live demo](https://rapunzel2812.surge.sh)
 
 ## Stack:
 
 * HTML5
 * CSS3
+* JavaScript
 * [Jquery 2.1.4](https://tailwindcss.com/)
-
 
 ## Influences: 
 
